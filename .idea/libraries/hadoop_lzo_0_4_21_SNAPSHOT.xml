@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hadoop-lzo-0.4.21-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hadoop-lzo/target/hadoop-lzo-0.4.21-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
