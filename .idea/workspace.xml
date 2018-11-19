@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="application-technologies-p2:jar" />
+      <artifact name="application-technologies-p2-task3:jar" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2478b57-33bf-4e3e-a4b7-7e29aeb90fbd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2MapReduce.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,83 +37,78 @@
     <session id="-132491468">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.10" value="4" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.7" value="3" />
-          <entry key="project.open.time.8" value="4" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.open.time.8" value="7" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="MF" value="1" />
-          <entry key="class" value="16" />
-          <entry key="googlebooks-spa-all-1gram-20120701-a" value="5" />
+          <entry key="MF" value="2" />
+          <entry key="class" value="21" />
+          <entry key="googlebooks-spa-all-1gram-20120701-a" value="6" />
           <entry key="googlebooks-spa-all-2gram-20120701-a_" value="2" />
+          <entry key="googlebooks-spa-all-2gram-20120701-bi" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="39" />
+          <entry key="java" value="50" />
           <entry key="map-combine-reduce" value="2" />
           <entry key="part-00000" value="3" />
-          <entry key="part-r-00000" value="29" />
+          <entry key="part-r-00000" value="45" />
+          <entry key="part-r-00000-task2" value="2" />
+          <entry key="sh" value="2" />
           <entry key="txt" value="1" />
           <entry key="xgz" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="16" />
+          <entry key="CLASS" value="21" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="39" />
-          <entry key="Manifest" value="1" />
-          <entry key="PLAIN_TEXT" value="45" />
+          <entry key="JAVA" value="50" />
+          <entry key="Manifest" value="2" />
+          <entry key="PLAIN_TEXT" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="MF" value="2" />
           <entry key="googlebooks-spa-all-1gram-20120701-a" value="108" />
           <entry key="googlebooks-spa-all-2gram-20120701-a_" value="1" />
-          <entry key="java" value="14265" />
+          <entry key="java" value="22982" />
           <entry key="part-r-00000" value="1" />
-          <entry key="txt" value="1" />
+          <entry key="part-r-00000-task2" value="5" />
+          <entry key="sh" value="7" />
+          <entry key="txt" value="43" />
           <entry key="xgz" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14265" />
-          <entry key="PLAIN_TEXT" value="123" />
+          <entry key="JAVA" value="22982" />
+          <entry key="Manifest" value="2" />
+          <entry key="PLAIN_TEXT" value="177" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.7016521">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/Task2MapReduce.java">
+            <entry file="file://$PROJECT_DIR$/src/Task1MapReduceEC2.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="95">
-                  <caret line="52" column="43" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/TestFile.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="594">
-                  <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+                <state relative-caret-position="4576">
+                  <caret line="208" selection-start-line="208" selection-end-line="208" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -126,21 +119,24 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+        <leaf>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/input_2gram/googlebooks-spa-all-2gram-20120701-a_">
-              <provider selected="true" editor-type-id="LargeFileEditor">
-                <state relative-caret-position="1260600">
-                  <caret line="57300" column="20" selection-start-line="57300" selection-start-column="20" selection-end-line="57300" selection-end-column="20" />
+            <entry file="file://$PROJECT_DIR$/src/Task1MapReduce.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="506">
+                  <caret line="158" column="16" selection-start-line="158" selection-start-column="16" selection-end-line="158" selection-end-column="16" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/part-r-00000">
+            <entry file="file://$PROJECT_DIR$/run_task2.sh">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret column="19" selection-start-column="19" selection-end-column="19" />
+                <state relative-caret-position="462">
+                  <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
                 </state>
               </provider>
             </entry>
@@ -184,9 +180,13 @@
         <option value="$PROJECT_DIR$/src/Task1.java" />
         <option value="$PROJECT_DIR$/map-combine-reduce" />
         <option value="$PROJECT_DIR$/src/Task1MapCombineReduce.java" />
-        <option value="$PROJECT_DIR$/src/Task1MapReduce.java" />
+        <option value="$PROJECT_DIR$/part-r-00000-task2" />
+        <option value="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
         <option value="$PROJECT_DIR$/src/TestFile.java" />
+        <option value="$PROJECT_DIR$/run_task1.sh" />
         <option value="$PROJECT_DIR$/src/Task2MapReduce.java" />
+        <option value="$PROJECT_DIR$/src/Task1MapReduce.java" />
+        <option value="$PROJECT_DIR$/src/Task1MapReduceEC2.java" />
       </list>
     </option>
   </component>
@@ -208,11 +208,14 @@
     <option name="width" value="2493" />
     <option name="height" value="1402" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -223,34 +226,37 @@
             <path>
               <item name="application-technologies-p2" type="b2602c69:ProjectViewProjectNode" />
               <item name="application-technologies-p2" type="462c0819:PsiDirectoryNode" />
-              <item name="input_1gram" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="application-technologies-p2" type="b2602c69:ProjectViewProjectNode" />
               <item name="application-technologies-p2" type="462c0819:PsiDirectoryNode" />
-              <item name="input_2gram" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="application-technologies-p2" type="b2602c69:ProjectViewProjectNode" />
               <item name="application-technologies-p2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="application-technologies-p2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541895434781" />
-    <property name="last_opened_file_path" value="/opt/hadoop3/share/hadoop/common/lib/zookeeper-3.4.9.jar!/" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542662558561" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hadoop-lzo/target/hadoop-lzo-0.4.21-SNAPSHOT.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
@@ -260,6 +266,7 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/input" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -303,7 +310,6 @@
     <configuration name="Task1MapReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task1MapReduce" />
       <module name="application-technologies-p2" />
-      <option name="PROGRAM_PARAMETERS" value="input output" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -311,7 +317,7 @@
     <configuration name="Task2MapReduce" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Task2MapReduce" />
       <module name="application-technologies-p2" />
-      <option name="PROGRAM_PARAMETERS" value="input_1gram output" />
+      <option name="PROGRAM_PARAMETERS" value="a" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -341,8 +347,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestFile" />
         <item itemvalue="Application.Task1MapReduce" />
+        <item itemvalue="Application.TestFile" />
         <item itemvalue="Application.Task1MapCombineReduce" />
         <item itemvalue="Application.ChainTask1" />
       </list>
@@ -373,18 +379,48 @@
       <workItem from="1541078656716" duration="351000" />
       <workItem from="1541086133355" duration="1299000" />
       <workItem from="1541412655960" duration="4450000" />
-      <workItem from="1541892007955" duration="6811000" />
+      <workItem from="1541892007955" duration="8992000" />
+      <workItem from="1541973337890" duration="4237000" />
+      <workItem from="1542017374958" duration="2099000" />
+      <workItem from="1542227086977" duration="4456000" />
+      <workItem from="1542305259333" duration="295000" />
+      <workItem from="1542307423436" duration="10207000" />
+      <workItem from="1542392728338" duration="7171000" />
+      <workItem from="1542622338671" duration="3648000" />
+      <workItem from="1542652004578" duration="7966000" />
     </task>
+    <task id="LOCAL-00001" summary="Task 2 beta version tested.">
+      <created>1541895472141</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541895472142</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Final delivery.">
+      <created>1542662385696</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542662385696</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Final delivery.">
+      <created>1542662551103</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542662551103</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55757000" />
+    <option name="totallyTimeSpent" value="98017000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="38" width="2493" height="1402" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.184178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26534817" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -392,26 +428,26 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3289183" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.6644898" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32816327" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49979398" weight="0.39836735" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32816327" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.38040817" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.500206" side_tool="true" weight="0.5004082" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32980457" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32855567" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32816327" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Database" order="4" weight="0.32991362" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32991362" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32962504" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.24989691" />
     </layout>
   </component>
@@ -420,6 +456,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task 2 beta version tested." />
+    <MESSAGE value="Final delivery." />
+    <option name="LAST_COMMIT_MESSAGE" value="Final delivery." />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -486,13 +527,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application-technologies-p2.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -500,48 +534,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task1MapReduce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/map-combine-reduce">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/input_1gram/googlebooks-spa-all-1gram-20120701-a">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="281">
-          <caret line="60003" column="7" selection-start-line="60003" selection-start-column="7" selection-end-line="60003" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/map-combine-reduce" />
     <entry file="file://$PROJECT_DIR$/input_2gram/googlebooks-spa-all-2gram-20120701-a_">
       <provider selected="true" editor-type-id="LargeFileEditor">
         <state relative-caret-position="1260600">
           <caret line="57300" column="20" selection-start-line="57300" selection-start-column="20" selection-end-line="57300" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/part-r-00000">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -552,20 +549,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/out2/part-r-00000">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+    <entry file="file://$PROJECT_DIR$/output/out2/part-r-00000" />
+    <entry file="file://$PROJECT_DIR$/output/out1/part-r-00000" />
+    <entry file="file://$PROJECT_DIR$/input_2gram/googlebooks-spa-all-2gram-20120701-bi">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-504577">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+    <entry file="file://$PROJECT_DIR$/src/TestFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input_1gram/googlebooks-spa-all-1gram-20120701-a">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="281">
+          <caret line="60003" column="7" selection-start-line="60003" selection-start-column="7" selection-end-line="60003" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/hadoop3/share/hadoop/client/hadoop-client-api-3.1.1.jar!/org/apache/hadoop/mapreduce/Mapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/hadoop3/share/hadoop/client/hadoop-client-api-3.1.1.jar!/org/apache/hadoop/mapred/MapTask.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="300" selection-start-line="300" selection-end-line="300" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output_task1_old/part-r-00000" />
+    <entry file="file://$PROJECT_DIR$/run_task1.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="112" selection-start-line="6" selection-start-column="112" selection-end-line="6" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part-r-00000">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part-r-00000-task2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output_task2/out2/part-r-00000">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Task2MapReduce.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="52" column="43" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
+        <state relative-caret-position="975">
+          <caret line="555" column="9" selection-start-line="555" selection-start-column="9" selection-end-line="555" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task1MapReduceEC2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4576">
+          <caret line="208" selection-start-line="208" selection-end-line="208" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task1MapReduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="158" column="16" selection-start-line="158" selection-start-column="16" selection-end-line="158" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_task2.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -575,7 +655,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>application-technologies-p2:jar</last-edited>
+          <last-edited>application-technologies-p2-task2:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -628,7 +708,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -636,6 +715,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>hadoop-lzo-0.4.21-SNAPSHOT</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
